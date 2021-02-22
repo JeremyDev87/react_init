@@ -1,5 +1,3 @@
-# Movie App 2021
+# Jeremy's React init setting
 
-React JS Fundamentals Course(2021 Update!)
-
-https://github.com/SuaAppa/movie_app.git
+https://github.com/SuaAppa/react_init.git
